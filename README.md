@@ -1,4 +1,4 @@
-# 🚀 WhatsApp Appointment Automation Bot
+#  WhatsApp Appointment Automation Bot
 
 ---
 
